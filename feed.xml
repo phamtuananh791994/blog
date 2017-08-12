@@ -3,7 +3,7 @@
     <title>imusic</title>
     <link href="https://phamtuananh791994.github.io/iMusic/feed.xml" rel="self" />
     <link href="https://phamtuananh791994.github.io/iMusic" />
-    <updated>2017-08-12T10:59:05+07:00</updated>
+    <updated>2017-08-12T11:04:05+07:00</updated>
     <author>
         <name>Pham Tuan Anh</name>
     </author>
@@ -17,10 +17,11 @@
         <link href="https://phamtuananh791994.github.io/iMusic/test2.html"/>
         <id>https://phamtuananh791994.github.io/iMusic/test2.html</id>
 
-        <updated>2017-08-12T10:58:59+07:00</updated>
+        <updated>2017-08-12T11:03:59+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://phamtuananh791994.github.io/iMusic/media/posts/2/apple-music-gift-card.jpg" alt="" />
                 Test2
             ]]>
         </content>
@@ -33,7 +34,7 @@
         <link href="https://phamtuananh791994.github.io/iMusic/test.html"/>
         <id>https://phamtuananh791994.github.io/iMusic/test.html</id>
 
-        <updated>2017-08-12T10:58:49+07:00</updated>
+        <updated>2017-08-12T10:59:41+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
