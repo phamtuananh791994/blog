@@ -2,30 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "imusic",
     "description": "",
-    "home_page_url": "https://phamtuananh791994.github.io/iMusic",
-    "feed_url": "https://phamtuananh791994.github.io/iMusic/feed.json",
+    "home_page_url": "https://phamtuananh791994.github.io/blog",
+    "feed_url": "https://phamtuananh791994.github.io/blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "Pham Tuan Anh"
     },
     "items": [
         {
-            "id": "https://phamtuananh791994.github.io/iMusic/test2.html",
-            "url": "https://phamtuananh791994.github.io/iMusic/test2.html",
+            "id": "https://phamtuananh791994.github.io/blog/test2.html",
+            "url": "https://phamtuananh791994.github.io/blog/test2.html",
             "title": "Test2",
             "content_html": "Test2",
-            "image": "https://phamtuananh791994.github.io/iMusic/media/posts/2/apple-music-gift-card.jpg",
+            "image": "https://phamtuananh791994.github.io/blog/media/posts/2/apple-music-gift-card.jpg",
             "author": {
                 "name": "Pham Tuan Anh"
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T11:29:07+07:00",
+            "date_published": "2017-08-12T11:34:27+07:00",
             "date_modified": "2017-08-12T11:03:59+07:00"
         },
         {
-            "id": "https://phamtuananh791994.github.io/iMusic/test.html",
-            "url": "https://phamtuananh791994.github.io/iMusic/test.html",
+            "id": "https://phamtuananh791994.github.io/blog/test.html",
+            "url": "https://phamtuananh791994.github.io/blog/test.html",
             "title": "Test1",
             "content_html": "Test1",
             "author": {
@@ -33,7 +33,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T11:29:07+07:00",
+            "date_published": "2017-08-12T11:34:27+07:00",
             "date_modified": "2017-08-12T10:59:41+07:00"
         }
     ]
