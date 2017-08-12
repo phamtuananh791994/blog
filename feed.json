@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "imusic",
+    "title": "blog",
     "description": "",
     "home_page_url": "https://phamtuananh791994.github.io/blog",
     "feed_url": "https://phamtuananh791994.github.io/blog/feed.json",
@@ -20,7 +20,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T11:34:27+07:00",
+            "date_published": "2017-08-12T11:35:50+07:00",
             "date_modified": "2017-08-12T11:03:59+07:00"
         },
         {
@@ -33,7 +33,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-12T11:34:27+07:00",
+            "date_published": "2017-08-12T11:35:50+07:00",
             "date_modified": "2017-08-12T10:59:41+07:00"
         }
     ]

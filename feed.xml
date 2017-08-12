@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>imusic</title>
+    <title>blog</title>
     <link href="https://phamtuananh791994.github.io/blog/feed.xml" rel="self" />
     <link href="https://phamtuananh791994.github.io/blog" />
-    <updated>2017-08-12T11:34:27+07:00</updated>
+    <updated>2017-08-12T11:35:50+07:00</updated>
     <author>
         <name>Pham Tuan Anh</name>
     </author>
